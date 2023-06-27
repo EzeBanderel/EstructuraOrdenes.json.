@@ -1,0 +1,29 @@
+
+{
+"OrderID":17480 ,
+"Address":" Maza 4047" ,
+"Status": "En Preparacion",
+"Articles":[
+    {
+"name":"Tablet",
+"Quantity":2,
+"Dangerous": false,
+}
+    {
+"name":"Telefono",
+"Quantity":3,
+"Dangerous": false,
+}
+    {
+"name":"Baterias",
+"Quantity":4,
+"Dangerous": false,
+}
+
+
+
+
+
+
+]
+}
